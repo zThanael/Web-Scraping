@@ -13,7 +13,7 @@ O objetivo deste repositorio esta em estudar como realizar o web scraping por me
 
 <h3> Desenvolvimento </h3>
 Existe neste repositório um notebook mostrando o passo a passo para realizar uma extração de dados da web por meio do web scraping com python.
-<blockquote> Notebook: <b><a href=''>Web Scraping na prática!</a></b> 
+<blockquote> Notebook: <b><a href='https://github.com/zThanael/Web-Scraping/blob/main/Web%20Scraping%20na%20pratica.ipynb'>Web Scraping na prática!</a></b> 
 </blockquote>
 
 <h3> Dúvidas </h3>
